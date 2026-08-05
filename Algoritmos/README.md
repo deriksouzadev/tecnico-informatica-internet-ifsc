@@ -21,3 +21,4 @@ Exercícios desenvolvidos durante o curso **Técnico em Informática para Intern
 7. Cálculo do preço final de um automóvel
 8. Calculadora (soma, subtração, multiplicação e divisão)
 9. Calculadora com condicional (tratamento para divisão por zero)
+10. Verificação de número par ou ímpar
