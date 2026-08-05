@@ -26,3 +26,4 @@ Exercícios desenvolvidos durante o curso **Técnico em Informática para Intern
 12. Média de três notas
 13. Classificação de idade ( criança, adolescente, adulto e idoso)
 14. Calculadora com menu para escolha ( adição, subtração, multiplicação e divisão)
+15. Tabuada 
