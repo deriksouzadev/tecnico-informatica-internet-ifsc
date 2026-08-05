@@ -28,3 +28,4 @@ Exercícios desenvolvidos durante o curso **Técnico em Informática para Intern
 14. Calculadora com menu para escolha ( adição, subtração, multiplicação e divisão)
 15. Tabuada
 16. Contagem 1 ao 100
+17. Soma dos valores compreendidos entre 1 e 100 
