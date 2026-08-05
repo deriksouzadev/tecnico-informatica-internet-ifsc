@@ -22,3 +22,4 @@ Exercícios desenvolvidos durante o curso **Técnico em Informática para Intern
 8. Calculadora (soma, subtração, multiplicação e divisão)
 9. Calculadora com condicional (tratamento para divisão por zero)
 10. Verificação de número par ou ímpar
+11. Maior entre dois números
