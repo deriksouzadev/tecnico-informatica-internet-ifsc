@@ -23,3 +23,4 @@ Exercícios desenvolvidos durante o curso **Técnico em Informática para Intern
 9. Calculadora com condicional (tratamento para divisão por zero)
 10. Verificação de número par ou ímpar
 11. Maior entre dois números
+12. Média de três notas
