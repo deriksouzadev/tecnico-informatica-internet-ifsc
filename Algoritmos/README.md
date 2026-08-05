@@ -20,3 +20,4 @@ Exercícios desenvolvidos durante o curso **Técnico em Informática para Intern
 6. Cálculo de gastos de um fumante
 7. Cálculo do preço final de um automóvel
 8. Calculadora (soma, subtração, multiplicação e divisão)
+9. Calculadora com condicional (tratamento para divisão por zero)
