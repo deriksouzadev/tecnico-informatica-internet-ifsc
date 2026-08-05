@@ -19,3 +19,4 @@ Exercícios desenvolvidos durante o curso Técnico em Informática para Internet
 05 - Quantidade de dias vividos por uma pessoa  
 06 - Cálculo de gastos de um fumante  
 07 - Cálculo do preço final de um automóvel
+08 - Calculadora (soma, subtração, multiplicação e divisão)
